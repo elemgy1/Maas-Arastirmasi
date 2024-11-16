@@ -11,7 +11,7 @@ Pandas, Numpy, Seaborn ve Matplotlib kütüphaneleri kullanılarak işleme, dön
 - Erkek ve uzaktan çalışanların kadın ve hybrid çalışanlardan fazla maaş aldığı görülmüştür.
 ## Grafikler
 2. Cinsiyete Göre Çalışma Durumu Analizi
-![image]https://github.com/elemgy1/Maas-Arastirmasi/blob/main/Proje/graphs/2%20Erkek%20.png
+![image](https://github.com/elemgy1/Maas-Arastirmasi/blob/main/Proje/graphs/2%20Erkek%20.png)
 
  
  
