@@ -11,8 +11,14 @@ Pandas, Numpy, Seaborn ve Matplotlib kütüphaneleri kullanılarak işleme, dön
 - Erkek ve uzaktan çalışanların kadın ve hybrid çalışanlardan fazla maaş aldığı görülmüştür.
 ## Grafikler
 2. Cinsiyete Göre Çalışma Durumu Analizi
-3. Deneyime Göre Aylık Net Maaş Analizi
-4. Pozisyona Göre Yıllık Ek Gelir Analizi
-5. Sektöre Göre Çalışma Şekli Dağılımı
-6. Çalışan Sayısına Göre Maaş Dağılımı
-7. Cinsiyete ve Çalışma Şekline Göre Maaş Analizi
+![image]https://github.com/elemgy1/Maas-Arastirmasi/blob/main/Proje/graphs/2%20Erkek%20.png
+
+ 
+ 
+ 
+ 
+4. Deneyime Göre Aylık Net Maaş Analizi
+5. Pozisyona Göre Yıllık Ek Gelir Analizi
+6. Sektöre Göre Çalışma Şekli Dağılımı
+7. Çalışan Sayısına Göre Maaş Dağılımı
+8. Cinsiyete ve Çalışma Şekline Göre Maaş Analizi
