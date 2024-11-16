@@ -2,7 +2,7 @@
 ## Overwiev
 Bu projede anket tarafından toplanan verilerde bir takım veri analizi ve veri görselleştirmesi işlemleri yapılmaktadır.
 ## Data
-Data, veri_dosyasi.csv dosyasından alınmıştır ve birçok farklı sütun içerir. Bunlar arasında: 'Deneyim', 'Sektör', 'Pozisyon','Yan Haklar' ve daha fazlası bulunmaktadır.
+Data, veri_dosyasi.csv dosyasından alınmıştır ve birçok farklı sütun içerir. Bunlar arasında: 'Deneyim', 'Sektör', 'Pozisyon', 'Yan Haklar' ve daha fazlası bulunmaktadır.
 ## Kullanılan Teknolojiler
 Pandas, Numpy, Seaborn ve Matplotlib kütüphaneleri kullanılarak işleme, dönüştürme, ve görselleştirme işlemi gerçekleştirilmiştir.
 ## Çıkarımlar
@@ -10,10 +10,10 @@ Pandas, Numpy, Seaborn ve Matplotlib kütüphaneleri kullanılarak işleme, dön
 - Satış alanındaki pozisyonlardaki çalışanların ek gelirlerinin daha fazla olduğu saptanmıştır.
 - Erkek ve uzaktan çalışanların kadın ve hybrid çalışanlardan fazla maaş aldığı görülmüştür.
 ## Grafikler
-**2. Cinsiyete Göre Çalışma Durumu Analizi**: Bu grafik cinsiyete göre çalışma şekli yüzdelerini gösterir. Grafik yorumlandığında en fazla tercih edilen çalışma şeklinin "ofis", ikinci tercih edilen çalışma şeklinin "hybrid", üçüncü tercih edilen çalışma şeklinin "uzaktan" olduğu görülmüştür.
+**2. Cinsiyete Göre Çalışma Durumu Analizi**: Grafik yorumlandığında cinsiyet fark etmeksizin en fazla tercih edilen çalışma şeklinin "ofis", ikinci tercih edilen çalışma şeklinin "hybrid", üçüncü tercih edilen çalışma şeklinin "uzaktan" olduğu görülmüştür.
 ![image](https://github.com/elemgy1/Maas-Arastirmasi/blob/main/Proje/graphs/2%20Erkek%20.png)
 ![image](https://github.com/elemgy1/Maas-Arastirmasi/blob/main/Proje/graphs/2%20Kadın%20.png)
-**3. Deneyime Göre Aylık Net Maaş Analizi**: Bu grafik iş deneyimine göre alınan maaş ortalamasını gösterir. İlk 5 yıla kadar önemli bir artış olduğu, 5-12 yıl arasında değişkenliğin azaldığı ve 12 yıldan sonra beklenen bir düşüş olduğu gözlemleniyor.
+**3. Deneyime Göre Aylık Net Maaş Analizi**: İlk 5 yıla kadar önemli bir artış olduğu, 5-12 yıl arasında değişkenliğin azaldığı ve 12 yıldan sonra beklenen bir düşüş olduğu gözlemleniyor.
 ![image](https://github.com/elemgy1/Maas-Arastirmasi/blob/main/Proje/graphs/3.png)
 **4. Pozisyona Göre Yıllık Ek Gelir Analizi**
 ![image](https://github.com/elemgy1/Maas-Arastirmasi/blob/main/Proje/graphs/4.png)
